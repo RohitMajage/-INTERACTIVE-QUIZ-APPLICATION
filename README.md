@@ -33,3 +33,7 @@ Tracks and updates the score.
 Manages navigation between questions.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/9fba3624-06e1-4d02-b01a-984688e7d981)
+![Image](https://github.com/user-attachments/assets/53719238-3e59-45eb-9cd7-83efbb059457)
+![Image](https://github.com/user-attachments/assets/5b0346e5-a64a-4003-bd70-71d067fe926d)
+![Image](https://github.com/user-attachments/assets/d5c90c78-011e-4049-bbb6-3093b66216b9)
